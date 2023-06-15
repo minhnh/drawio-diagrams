@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T09:54:06.150Z" agent="5.0 (X11)" version="20.6.2" etag="aJolMzfm9zp2jb2al2IX" type="github"><diagram id="vfRpK4CD5gFtl-8jF-R8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:00:21.575Z" agent="5.0 (X11)" version="20.6.2" etag="dV65rFVZB3FyYUuMCZz2" type="github">
+  <diagram id="UDyUe4wnZdOq76N9Yg2K" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="TOPiBlas_0pTJmSRFxDe-2" target="TOPiBlas_0pTJmSRFxDe-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="300" />
+              <mxPoint x="450" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-2" value="Scenario execution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;verticalAlign=top;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-3" value="behaviour tree" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;" vertex="1" parent="TOPiBlas_0pTJmSRFxDe-2">
+          <mxGeometry x="10" y="40" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-4" value="simulation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;" vertex="1" parent="TOPiBlas_0pTJmSRFxDe-2">
+          <mxGeometry x="10" y="100" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="TOPiBlas_0pTJmSRFxDe-5" target="TOPiBlas_0pTJmSRFxDe-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="350" />
+              <mxPoint x="230" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-5" value="behave process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;verticalAlign=top;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-6" value="behave steps triggered by clauses in feature file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;" vertex="1" parent="TOPiBlas_0pTJmSRFxDe-5">
+          <mxGeometry x="10" y="40" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="TOPiBlas_0pTJmSRFxDe-8" target="TOPiBlas_0pTJmSRFxDe-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="350" />
+              <mxPoint x="450" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;" edge="1" parent="1" source="TOPiBlas_0pTJmSRFxDe-8" target="TOPiBlas_0pTJmSRFxDe-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="300" />
+              <mxPoint x="230" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-8" value="communication layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;verticalAlign=top;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-9" value="event handler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;" vertex="1" parent="TOPiBlas_0pTJmSRFxDe-8">
+          <mxGeometry x="10" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOPiBlas_0pTJmSRFxDe-12" value="fluent/monitor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=16;" vertex="1" parent="TOPiBlas_0pTJmSRFxDe-8">
+          <mxGeometry x="10" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
