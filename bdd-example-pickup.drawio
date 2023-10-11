@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-06-26T14:10:26.702Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="RtwYsYGFD4GPd47QBGsp" version="21.5.0" type="device">
+<mxfile host="Electron" modified="2023-06-26T18:10:34.977Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="QNJMJPdGg7XtpG27Zfoo" version="21.5.0" type="device">
   <diagram id="7C1xGLEkhZVZ-dPrB2Q-" name="Page-1">
     <mxGraphModel dx="1185" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Q3AlBVAB8pd4UczHKoV-11" value="of-scenario" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" parent="-Q3AlBVAB8pd4UczHKoV-9" source="-Q3AlBVAB8pd4UczHKoV-10" target="-Q3AlBVAB8pd4UczHKoV-2" edge="1">
-          <mxGeometry x="0.6121" relative="1" as="geometry">
+          <mxGeometry x="0.6981" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="240" />
               <mxPoint x="70" y="240" />
@@ -137,18 +137,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Q3AlBVAB8pd4UczHKoV-25" value="has-variation" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" parent="1" source="-Q3AlBVAB8pd4UczHKoV-22" target="-Q3AlBVAB8pd4UczHKoV-24" edge="1">
+        <mxCell id="-Q3AlBVAB8pd4UczHKoV-25" value="can-be" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" parent="1" source="-Q3AlBVAB8pd4UczHKoV-22" target="-Q3AlBVAB8pd4UczHKoV-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Q3AlBVAB8pd4UczHKoV-22" value="robot-connection: VariableConnection" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-Q3AlBVAB8pd4UczHKoV-22" value="obj-variation: Variation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q3AlBVAB8pd4UczHKoV-24" value="cylindrical-cell:&lt;br&gt;Object" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Q3AlBVAB8pd4UczHKoV-27" value="has-var-connection" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" parent="1" source="-Q3AlBVAB8pd4UczHKoV-26" target="-Q3AlBVAB8pd4UczHKoV-22" edge="1">
+        <mxCell id="-Q3AlBVAB8pd4UczHKoV-27" value="has-variation" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;" parent="1" source="-Q3AlBVAB8pd4UczHKoV-26" target="-Q3AlBVAB8pd4UczHKoV-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="177.5" y="380" />
