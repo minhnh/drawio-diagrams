@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-15T00:31:06.981Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="eBd0UDHWmSO2frAZvUGp" version="23.1.5" type="device">
+<mxfile host="Electron" modified="2024-04-12T10:14:36.720Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="FKJvWYblnMz8GzSF2d9D" version="24.1.0" type="device">
   <diagram name="Page-1" id="6JFTuhXAX5A5z9w-y8QN">
-    <mxGraphModel dx="844" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="988" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="240" y="680" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PZ8QMNFM-fA0sixPna7i-17" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 16px;&quot;&gt;bdd_orchestration(scenarios_data)&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;while (in scenarios_timeline) {&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); line-height: 12px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp; behaviour_step()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); line-height: 12px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot;&gt;&amp;nbsp; sim_step() // or communication for real world&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; current_scenarios;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; collect_measurements(current_scenarios);&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; for s in current_scenarios {&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; &amp;nbsp; bdd_step(scenarios_data)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp; }&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;}&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="100" width="380" height="280" as="geometry" />
+          <mxGeometry x="40" y="100" width="400" height="280" as="geometry" />
         </mxCell>
         <mxCell id="PZ8QMNFM-fA0sixPna7i-18" value="scnr. place" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="620" width="80" height="20" as="geometry" />

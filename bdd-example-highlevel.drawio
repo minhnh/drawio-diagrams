@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-14T18:31:05.486Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7NyKMnbp-Et_lKXEDeUm" version="23.1.5" type="device" pages="7">
+<mxfile host="Electron" modified="2024-03-19T16:29:02.216Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="kiCoDFRJgXJ5sm0vWkL0" version="23.1.5" type="device" pages="7">
   <diagram id="p_zGHNTugTSliSubGh5X" name="overall scope">
-    <mxGraphModel dx="1917" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
             <mxPoint x="-30" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yOZFiwz8ItOfka1wJ3t4-81" value="of-clause" style="endArrow=open;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;shape=connector;curved=0;jumpStyle=arc;" parent="dDzz50FoxesivXZXd110-4" source="yOZFiwz8ItOfka1wJ3t4-55" target="yOZFiwz8ItOfka1wJ3t4-39" edge="1">
+        <mxCell id="yOZFiwz8ItOfka1wJ3t4-81" value="clause-of" style="endArrow=open;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;shape=connector;curved=0;jumpStyle=arc;" parent="dDzz50FoxesivXZXd110-4" source="yOZFiwz8ItOfka1wJ3t4-55" target="yOZFiwz8ItOfka1wJ3t4-39" edge="1">
           <mxGeometry x="-0.3333" y="10" relative="1" as="geometry">
             <mxPoint x="230" y="230" as="sourcePoint" />
             <mxPoint x="230" y="180" as="targetPoint" />
